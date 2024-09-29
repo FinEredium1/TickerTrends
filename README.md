@@ -1,6 +1,6 @@
 # TickerTrends
 
-Welcome to the TickerTrends! This web application allows users to search for the latest news articles based on stock symbols. The application is built using a Flask backend and a React frontend.
+Welcome to the TickerTrends! This web application allows users to search for the latest news articles based on stock symbols. The application is built using a Flask backend and a React frontend. Work in Progress
 
 ## Table of Contents
 
