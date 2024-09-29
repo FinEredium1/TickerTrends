@@ -10,9 +10,9 @@ export const fetchStockNews = async (stockSymbol) => {
                 symbol: stockSymbol
             }
         });
-        return response.data; // Return the news data from the backend
+        return response.data;
     } catch (error) {
         console.error("Error fetching stock news:", error);
-        throw error; // Re-throw the error for handling in the component
+        throw error;
     }
 };
